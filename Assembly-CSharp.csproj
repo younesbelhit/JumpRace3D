@@ -733,10 +733,6 @@
       <Project>{4A525947-EC01-73D4-13EB-6ADCEAFE7BBF}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
-    <ProjectReference Include="AmplifyShaderEditor.csproj">
-      <Project>{53C71C18-13D8-5771-58D8-C57CB00DF175}</Project>
-      <Name>AmplifyShaderEditor</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

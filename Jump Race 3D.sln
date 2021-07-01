@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{4A525947-EC01-73D4-13EB-6ADCEAFE7BBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{53C71C18-13D8-5771-58D8-C57CB00DF175}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{08FE63BB-97D3-BF23-C799-6A7655E07D06}"
 EndProject
 Global
@@ -23,10 +21,6 @@ Global
 		{4A525947-EC01-73D4-13EB-6ADCEAFE7BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A525947-EC01-73D4-13EB-6ADCEAFE7BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A525947-EC01-73D4-13EB-6ADCEAFE7BBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53C71C18-13D8-5771-58D8-C57CB00DF175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53C71C18-13D8-5771-58D8-C57CB00DF175}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53C71C18-13D8-5771-58D8-C57CB00DF175}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53C71C18-13D8-5771-58D8-C57CB00DF175}.Release|Any CPU.Build.0 = Release|Any CPU
 		{08FE63BB-97D3-BF23-C799-6A7655E07D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08FE63BB-97D3-BF23-C799-6A7655E07D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08FE63BB-97D3-BF23-C799-6A7655E07D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
